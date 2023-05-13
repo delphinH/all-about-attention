@@ -15,3 +15,16 @@ This is how I understand about attention mechanism.
 
 ![Attention score](https://raw.githubusercontent.com/delphinH/all-about-attention/main/attention_score.jpg)
 
+
+
+![Transformer Architecture](https://raw.githubusercontent.com/delphinH/all-about-attention/main/transformer_arc.jpg)
+
+
+
+Reference(Excellent sources)
+
+* [MIT 6.S191 for general capturing concepts](https://youtu.be/ySEx_Bqxvvo)
+* [Yannic Kilcher for the philosophy](https://youtu.be/TrdevFK_am4)
+* [Jay Alammar with concrete example](https://jalammar.github.io/illustrated-transformer/)
+* [My Favorite blog: Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/)
+* [Attention is all you need paper](https://arxiv.org/abs/1706.03762)
