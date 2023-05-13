@@ -30,3 +30,4 @@ This is how I understand about attention mechanism.
 * [Jay Alammar with concrete example](https://jalammar.github.io/illustrated-transformer/)
 * [My Favorite blog: Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/)
 * [Attention is all you need paper](https://arxiv.org/abs/1706.03762)
+* [Aladdin Persson with implementation pytorch codes](https://youtu.be/M6adRGJe5cQ)
