@@ -17,7 +17,7 @@ This is how I understand about attention mechanism.
 
 
 
-![Transformer Architecture](https://raw.githubusercontent.com/delphinH/all-about-attention/main/transformer_arch.png)
+![Transformer Architecture](https://raw.githubusercontent.com/delphinH/all-about-attention/main/transformer_arch.PNG)
 
 
 
