@@ -16,12 +16,14 @@ This is how I understand about attention mechanism.
 ![Attention score](https://raw.githubusercontent.com/delphinH/all-about-attention/main/attention_score.jpg)
 
 
-
+3. How does it look?
 ![Transformer Architecture](https://raw.githubusercontent.com/delphinH/all-about-attention/main/transformer_arch.PNG)
 
+4. Behind Philosophy
 
+5. Unsolved Questions
 
-Reference(Excellent sources)
+### Reference(Excellent sources)
 
 * [MIT 6.S191 for general capturing concepts](https://youtu.be/ySEx_Bqxvvo)
 * [Yannic Kilcher for the philosophy](https://youtu.be/TrdevFK_am4)
