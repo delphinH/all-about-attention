@@ -13,5 +13,5 @@ This is how I understand about attention mechanism.
    - Extract features with high attention
    - FYI, Muti-head attention is just Concat(# of heads with self-attention). Also implys that input of attention splits into multiple parts of it.
 
-![alt text](https://github.com/delphinH/all-about-attention/attention_score.jpg?raw=true)
+![Attention score](https://raw.githubusercontent.com/delphinH/all-about-attention/main/attention_score.jpg)
 
