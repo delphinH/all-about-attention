@@ -16,12 +16,13 @@ This is how I understand about attention mechanism.
 ![Attention score](https://raw.githubusercontent.com/delphinH/all-about-attention/main/attention_score.jpg)
 
 
-3. How does it look?
+3. How does Transformer look?
 ![Transformer Architecture](https://raw.githubusercontent.com/delphinH/all-about-attention/main/transformer_arch.PNG)
 
 4. Behind Philosophy
 
 5. Unsolved Questions
+* Does the Embedding of input learn from data like CBOW, Skip-gram, or does it just fixed random vector? 
 
 ### Reference(Excellent sources)
 
